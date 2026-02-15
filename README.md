@@ -2,6 +2,8 @@
 
 An F# amsterdam/NL based property search tool written in F# that visualizes listings on interactive maps using the Funda mobile API. Experimental, made this just for fun at the moment.
 
+![alt text](<Screenshot 2026-02-15 at 23.37.59.png>)
+
 ## Overview
 
 This project searches property listings from [Funda.nl](https://funda.nl) using reverse-engineered API endpoints and visualizes results on interactive maps with [Plotly.NET](https://plotly.net).
