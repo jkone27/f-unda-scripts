@@ -1,4 +1,4 @@
-# F# Funda
+# F# (F)unda
 
 An F# amsterdam/NL based property search tool written in F# that visualizes listings on interactive maps using the Funda mobile API. Experimental, made this just for fun at the moment.
 
